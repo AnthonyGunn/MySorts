@@ -1,4 +1,9 @@
 # Sort-Algorithms
+The graphs below portray the runtime experiments for each sorting algorithm and permutations. 
+There were a total of 5 iterations per run of size 2^2 to 2^17 (multiplier of 2x so about 16-17 runs).
+Multiple iterations to avoid as much linear noise as possible.
+Runtimes are determinant by the slope.
+
 Insertion Sort Plot
 <img width="1200" alt="Screen Shot 2022-04-23 at 3 59 57 PM" src="https://user-images.githubusercontent.com/99512696/164989941-931a4f51-604c-447b-8ae7-5e8510535c08.png">
 
